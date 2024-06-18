@@ -33,8 +33,6 @@ The purpose of this project is to apply genetic algorithms using binary (bit-str
 ## Code Implemenation:
 Run [GA-Binary-Encoding.ipynb](GA-Binary-Encoding.ipynb)
 
-![image](https://github.com/mzrd91/Genetic-Programming-Binary-Encoding/assets/131927177/65dcca90-6194-4540-b9e8-c460291d92d7)
-
 
 3. **Output:**
    - The program will output the best, mean, and standard deviation of the best-of-run fitnesses from 30 independent runs.
@@ -69,6 +67,8 @@ The output of the algorithm after running 30 independent runs is as follows:
 This plot shows the best fitness value in each generation for all 30 runs. The black line represents the average best fitness value across all runs per generation. This visualization helps in understanding how quickly the algorithm converges and how the fitness values improve over generations.
 
 [Fitness Progression Over Generations](images/image.png)
+
+![image](https://github.com/mzrd91/Genetic-Programming-Binary-Encoding/assets/131927177/65dcca90-6194-4540-b9e8-c460291d92d7)
 
 ## License
 
