@@ -33,6 +33,9 @@ The purpose of this project is to apply genetic algorithms using binary (bit-str
 ## Code Implemenation:
 Run [GA-Binary-Encoding.ipynb](GA-Binary-Encoding.ipynb)
 
+![image](https://github.com/mzrd91/Genetic-Programming-Binary-Encoding/assets/131927177/65dcca90-6194-4540-b9e8-c460291d92d7)
+
+
 3. **Output:**
    - The program will output the best, mean, and standard deviation of the best-of-run fitnesses from 30 independent runs.
    - The best solution's bit-string representation, the floating-point values of $x1$, $x2$, and $x3$, and the fitness value will be displayed.
