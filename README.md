@@ -28,19 +28,14 @@ The purpose of this project is to apply genetic algorithms using binary (bit-str
 
 1. **Setup:**
    - Clone the repository
-   - Ensure you have Python installed along with the necessary dependencies (numpy)
+   - Ensure you have Python installed along with the necessary dependencies
 
-2. **Running the Algorithm:**
-   - You can run the algorithm with default parameters using the following command:
-     ```bash
-     python binary_encoding.py
-     ```
 ## Code Implemenation:
 Run [GA-Binary-Encoding.ipynb](GA-Binary-Encoding.ipynb)
 
 3. **Output:**
    - The program will output the best, mean, and standard deviation of the best-of-run fitnesses from 30 independent runs.
-   - The best solution's bit-string representation, the floating-point values of x1, x2, and x3, and the fitness value will be displayed.
+   - The best solution's bit-string representation, the floating-point values of $x1$, $x2$, and $x3$, and the fitness value will be displayed.
   
 ## Example Output
 
@@ -53,9 +48,9 @@ The output of the algorithm after running 30 independent runs is as follows:
 
 - **Bit-string Representation:** `111100110111110010010001100010010010010001011101110100011110`
 - **Floating-point Values:** 
-  - x1 = 3.4625
-  - x2 = -3.8733
-  - x3 = -5.4990
+  - $x1$ = 3.4625
+  - $x2$ = -3.8733
+  - $x3$ = -5.4990
 - **Fitness Value:** 0.0427
 
 ### Explanation of the Output:
@@ -63,7 +58,7 @@ The output of the algorithm after running 30 independent runs is as follows:
 - **Average Best Fitness:** This is the average fitness value of the best solutions found in each of the 30 independent runs of the genetic algorithm.
 - **Standard Deviation of Best Fitness:** This measures the variability of the best fitness values across the 30 runs.
 - **Bit-string Representation:** This is the binary encoding of the best solution found during the runs.
-- **Floating-point Values:** These are the decoded real values corresponding to the bit-string for variables x1, x2, and x3.
+- **Floating-point Values:** These are the decoded real values corresponding to the bit-string for variables $x1$, $x2$, and $x3$.
 - **Fitness Value:** This is the fitness value of the best solution, indicating how well this solution optimizes the objective function.
 
 ## License
