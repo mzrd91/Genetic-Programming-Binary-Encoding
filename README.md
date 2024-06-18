@@ -61,6 +61,10 @@ The output of the algorithm after running 30 independent runs is as follows:
 - **Floating-point Values:** These are the decoded real values corresponding to the bit-string for variables $x1$, $x2$, and $x3$.
 - **Fitness Value:** This is the fitness value of the best solution, indicating how well this solution optimizes the objective function.
 
+
+## Visualization
+This plot shows the best fitness value in each generation for all 30 runs. The black line represents the average best fitness value across all runs per generation. This visualization helps in understanding how quickly the algorithm converges and how the fitness values improve over generations.
+
 [Fitness Progression Over Generations](images/image.png)
 
 ## License
