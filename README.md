@@ -61,6 +61,8 @@ The output of the algorithm after running 30 independent runs is as follows:
 - **Floating-point Values:** These are the decoded real values corresponding to the bit-string for variables $x1$, $x2$, and $x3$.
 - **Fitness Value:** This is the fitness value of the best solution, indicating how well this solution optimizes the objective function.
 
+[Fitness Progression Over Generations](images/image.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
